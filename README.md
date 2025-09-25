@@ -3,6 +3,26 @@ Our project specializes in delivering innovative marketing solutions that help b
 
 https://drive.google.com/drive/folders/1vky5TDKMJtlFOiee_uHyi-sKY_r-NalL?usp=drive_link
 
+# 💄 Cosmetics Brand Marketing Project
+## 🔎 Overview
+We manage a cosmetics brand focused on **natural skincare & haircare products**.  
+Our goal: **boost awareness, build trust, and drive sales** through content, ads, and community engagement.  
+
+---
+
+## 📅 Project Plan
+
+- **Phase 1: Setup **  
+  Research, target audience, branding, optimize social media & website.  
+
+- **Phase 2: Content **  
+  Create content calendar, product photos/videos, engage audience.  
+
+- **Phase 3: Ads**  
+  Run paid campaigns, retarget, test creatives, optimize conversions.  
+
+- **Phase 4: Growth **  
+  UGC, reporting.  
 
 # 🎯 Digital Marketing Team
 
